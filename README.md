@@ -37,10 +37,12 @@ E.	Now we did some formatting to make it easier to visualize which stocks did we
 Once I reviewed the code to make sure it was correct, I went ahead and ran the Stock Analysis for the years if 2017 and 2018. We were successful in matching the refactored code to the original code in this Module! YAY!! 
 
 For 2017, the code ran in 0.3203125 seconds:
-<img width="1440" alt="Screen Shot 2021-12-27 at 8 56 10 PM" src="https://user-images.githubusercontent.com/95304025/147519391-e7c2ba9f-3302-44d3-a4e2-26b8fd42aeba.png">
+<img width="1435" alt="Screen Shot 2021-12-28 at 5 29 56 PM" src="https://user-images.githubusercontent.com/95304025/147611944-03b4b0a4-32d0-4b88-8368-7846aa1a0923.png">
+
 
 For 2018, the code ran in 0.3125 seconds:
-<img width="1440" alt="Screen Shot 2021-12-27 at 8 56 36 PM" src="https://user-images.githubusercontent.com/95304025/147519467-2619f33c-05da-41a4-9767-c11f041ac49b.png">
+<img width="1438" alt="Screen Shot 2021-12-28 at 5 30 25 PM" src="https://user-images.githubusercontent.com/95304025/147611964-b9a4e376-76b1-497b-9b56-088b9b8b6a87.png">
+
 ##
 
 
