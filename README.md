@@ -4,7 +4,7 @@
 After helping Steve generate a dataset that will be beneficial for not just himself but for his parents as well, we refactored the VBA code from Module 2 to give Steve the opportunity to do a little more research for his parents. Which, in short, we will expand the dataset to include the entire stock market over the last few years.
 ## Results of the Refactored Code
 Once we refactored the previous code we used earlier in the module, we were able to see the Run-Time difference decreased. 
-In addition to the explainations below, I also added Comments within the code to help identify it's usage. 
+In addition to the explanations below, I also added Comments within the code to help identify its usage. 
 
 A. The first adjustment we made was set the ‘tickerIndex’ to equal zero before looping through the rows. The ‘tickerIndex’ will be used to access the correct Index for the different arrays in this code:
 -	The ticker Arrays 
@@ -46,7 +46,7 @@ For 2018, the code ran in 0.3125 seconds:
 
 # Summary of Stock Analysis
 
-## Explaination of the Advantages and Disadvantages of refactoring any Code.
+## 1. Explanation of the Advantages and Disadvantages of refactoring any Code.
 
 **Advantages:**
 
@@ -62,4 +62,9 @@ For 2018, the code ran in 0.3125 seconds:
 **Disadvantages:**
 
 **Duplication**  It can be easy to duplicate several procedures and it increases the chance of making mistakes especially using copy & paste.
-**Time Consuming**. Especially it comes to efficiency, it can take a lot of time to ensure you are inputting the correct code and etc.
+**Time Consuming**. Especially it comes to efficiency, it can take a lot of time to ensure you are inputting the correct code etc.
+
+## 2. How do these pros and cons apply to refactoring the original VBA script?
+
+Refactoring the original VBA code provided faster run times as compared to the original code. I believe that since the dataset was smaller, the performance increase was minimal and when weighed against the extra time it took to refactor the original code it was not of much value, besides making the code cleaner.
+
