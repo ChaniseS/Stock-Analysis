@@ -26,9 +26,21 @@ D. Then we went back into the loop to increase the current ‘tickerVolumes’ v
 
 <img width="572" alt="Screen Shot 2021-12-27 at 7 49 43 PM" src="https://user-images.githubusercontent.com/95304025/147517130-38ae6d3b-9dd8-4770-93db-dc8bf43d6748.png">
 
-## We're almost done...I Promise :)
+### We're almost done...I Promise :)
 
 E.	Now we did some formatting to make it easier to visualize which stocks did well and which ones didn’t. In this part of the code, we made the positive returns green and negative returns red.
 
 <img width="479" alt="Screen Shot 2021-12-27 at 8 30 01 PM" src="https://user-images.githubusercontent.com/95304025/147517950-cc63c368-383d-4582-8ee5-f1969ff0f6bf.png">
 
+
+
+Once I reviewed the code to make sure it was correct, I went ahead and ran the Stock Analysis for the years if 2017 and 2018. We were successful in matching the refactored code to the original code in this Module! YAY!! 
+
+For 2017, the code ran in 0.3203125 seconds:
+<img width="1440" alt="Screen Shot 2021-12-27 at 8 56 10 PM" src="https://user-images.githubusercontent.com/95304025/147519391-e7c2ba9f-3302-44d3-a4e2-26b8fd42aeba.png">
+
+For 2018, the code ran in 0.3125 seconds:
+<img width="1440" alt="Screen Shot 2021-12-27 at 8 56 36 PM" src="https://user-images.githubusercontent.com/95304025/147519467-2619f33c-05da-41a4-9767-c11f041ac49b.png">
+
+
+## Summary of Stock Analysis
