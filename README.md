@@ -41,6 +41,25 @@ For 2017, the code ran in 0.3203125 seconds:
 
 For 2018, the code ran in 0.3125 seconds:
 <img width="1440" alt="Screen Shot 2021-12-27 at 8 56 36 PM" src="https://user-images.githubusercontent.com/95304025/147519467-2619f33c-05da-41a4-9767-c11f041ac49b.png">
+##
 
 
-## Summary of Stock Analysis
+# Summary of Stock Analysis
+
+## Explaination of the Advantages and Disadvantages of refactoring any Code.
+
+**Advantages:**
+
+**Keeps the code Simple and Upgradeable.**  I think when the code is simple and clean, it helps with keeping it up to date and easier to make new changes.
+
+**Uses less Memory**
+
+**Maintainable.**  After refactoring, the code is fresher, easier to understand or read, less complex and easier to maintain.
+
+**Easier to Read for anyone who uses the code after it was originally created.**  Especially for New users to VBA (or code in general) it can make understanding the original code easier to comprehend and make needed alterations.
+
+
+**Disadvantages:**
+
+**Duplication**  It can be easy to duplicate several procedures and it increases the chance of making mistakes especially using copy & paste.
+**Time Consuming**. Especially it comes to efficiency, it can take a lot of time to ensure you are inputting the correct code and etc.
